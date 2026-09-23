@@ -52,7 +52,7 @@ Across all of it I try to hold one standard: **separate what the telemetry prove
 
 | Project | What it shows |
 |---|---|
-| **[Risk-Based Vulnerability Management Program](https://github.com/kekoag6/Vulnerability-Management-Program)** | A full scan → prioritize → remediate → verify cycle. Six remediation rounds took a Windows host from **2 Critical / 8 High / 12 Medium to 0 / 0 / 2** — an 87% reduction in actionable findings — with three residual risks formally accepted rather than suppressed. Includes API-driven Linux scanning. |
+| **[Risk-Based Vulnerability Management Program](https://github.com/kekoag6/Vulnerability-Management-Program)** | A full scan → prioritize → remediate → verify cycle. Six remediation rounds took a Windows host from **2 Critical / 8 High / 12 Medium to 0 / 0 / 2** — an 87% reduction in actionable findings — with three residual risks formally accepted rather than suppressed. Ships the remediations as idempotent PowerShell, each script carrying the Tenable plugin ID it clears so the automation reconciles against the scan evidence. Includes API-driven Linux scanning. |
 | **[Windows 11 DISA STIG Remediation](https://github.com/kekoag6/Windows-11-STIG-Remediation)** | Ten idempotent, self-validating PowerShell scripts remediating Windows 11 STIG controls — three CAT I, plus Azure Trusted Launch with Secure Boot and vTPM. Each documents both the registry and Group Policy path and reads the value back to confirm it landed. Ships with a read-only compliance checker covering all ten. |
 
 ## 📋 Governance, Risk, and Compliance
