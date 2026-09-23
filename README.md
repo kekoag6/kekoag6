@@ -112,7 +112,7 @@ Across all of it I try to hold one standard: **separate what the telemetry prove
 
 <div align="center">
 
-**📫 Open to conversations about SOC, threat hunting, and incident response roles.**<br>
+**📫 Always happy to talk shop about detection engineering and incident response.**<br>
 <a href="https://www.linkedin.com/in/kekoagiron/">Connect on LinkedIn</a>
 
 </div>
