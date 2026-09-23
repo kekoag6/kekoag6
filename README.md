@@ -23,8 +23,8 @@ Across all of it I try to hold one standard: **separate what the telemetry prove
 - 🎓 **Education:** M.S. Cybersecurity and Information Assurance (WGU) · BBA in Management, University of Hawaiʻi at Mānoa (Shidler College of Business)
 - 🛡️ **Certifications:** CompTIA CySA+, PenTest+, Security+ · ISC2 CC · Google Cybersecurity
 - 🔎 **Focus areas:** threat hunting, incident response, detection engineering, digital forensics, vulnerability management
-- 🛠️ **Side project:** building **Rosterborn**, a fantasy football app, with AI-assisted development
-- 🏃 **Outside of work:** running, volleyball, fantasy football, and gaming (mostly retired)
+- 🛠️ **Side project:** building **Rosterborn**, a fantasy football app, with heavy AI assistance and mild stubbornness
+- 🏃 **Outside of work:** running, volleyball, and taking fantasy football more seriously than is defensible. Vibe coding is the hobby now — mostly a retired gamer these days.
 
 ---
 
